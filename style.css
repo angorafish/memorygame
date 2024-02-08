@@ -1,0 +1,15 @@
+.card {
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+  border: 1px solid #000;
+  margin: 10px;
+  display: inline-block;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.hidden {
+  background-color: #eee;
+  cursor: not-allowed;
+}
